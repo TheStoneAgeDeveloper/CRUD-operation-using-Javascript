@@ -1,1 +1,2 @@
 # CRUD-operation-using-Javascript
+This project <b>Creates</b>,<b>Reads</b>,<b>Updates</b> and <b>Deletes</b> items from a list that will be made by the user.This project has a basic logic of the <b>Model-View-Controller</b> which has the same functionality(CRUD).It is a plain Javascript project and all methods and syntax is strictly from the Vanilla Javascript library.An Angular JS CRUD project is coming soon!
